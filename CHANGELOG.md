@@ -16,7 +16,7 @@
 
 - fix [#6](https://github.com/coderfe/vscode-open-in-browser/issues/6)
 - fix [#7](https://github.com/coderfe/vscode-open-in-browser/issues/7)
-- Change shortcut keys, open html in default browser with <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>D</kbd>
+- Change shortcut keys, open html in default browser with <kbd>ALT</kbd>+<kbd>b</kbd>
 
 ### 0.0.8
 
